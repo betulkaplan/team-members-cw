@@ -1,0 +1,16 @@
+.bg-ivory {
+  background-color: #f3f3f3;
+}
+
+.shadow-lg {
+  box-shadow: 5px 5px 16px -2px #000000 !important;
+}
+
+p,
+h3 {
+  text-align: start;
+}
+
+img {
+  margin-bottom: 15px;
+}
